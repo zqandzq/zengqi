@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 原来世界这么美好啊！！！
 
 You can use the [editor on GitHub](https://github.com/zqandzq/wangzhenqin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
